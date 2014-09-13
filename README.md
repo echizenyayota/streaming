@@ -1,4 +1,4 @@
 streaming
 =========
 
-Twitter streamingAPI/Stree
+Twitter streamingAPI/Streamed Tweets
